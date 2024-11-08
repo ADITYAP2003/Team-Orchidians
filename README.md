@@ -1,7 +1,6 @@
 # Team-Orchidians
 
 #  Approach :
-This includes detailed steps which will be used in the smart AI system.(It do not include actual algorithms and technique which we are going to use in the system to protect our idea from disclosure)
 1. Collection of Real-Time Traffic Data :
 
 The first step involves gathering current traffic information using smart technology. AI-supported CCTV cameras are strategically placed at key traffic intersections. These cameras capture live video feeds of traffic conditions, including the volume of vehicles and their movement. The real-time data collected is crucial for understanding traffic patterns and congestion levels at any given moment.
